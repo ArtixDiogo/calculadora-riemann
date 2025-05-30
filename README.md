@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto é uma aplicação desktop desenvolvida em Python que permite aos usuários visualizar e entender o conceito de integral definida através da aproximação por Somas de Riemann. A ferramenta é interativa e educacional, demonstrando como a área sob uma curva é calculada e como a precisão da aproximação é afetada pelo número de retângulos e pelo método de soma utilizado.
 
-Este software foi desenvolvido como parte do Trabalho Colaborativo para as disciplinas de Álgebra Linear e Cálculo 2[cite: 1].
+Este software foi desenvolvido como parte do Trabalho Colaborativo para as disciplinas de Cálculo 2.
 
 ## Funcionalidades Principais
 * Seleção de funções matemáticas pré-definidas.
@@ -14,7 +14,7 @@ Este software foi desenvolvido como parte do Trabalho Colaborativo para as disci
 * Atualização em tempo real do gráfico e da área aproximada ao alterar os parâmetros.
 
 ## Visualização do Aplicativo
-(Aqui você pode adicionar uma captura de tela do seu aplicativo em funcionamento. Ex: `![Screenshot do App](caminho/para/sua/imagem.png)`)
+![Screenshot do App](assets/Demo.png))
 
 ## Tecnologias Utilizadas
 * **Linguagem:** Python 3.x
@@ -63,10 +63,10 @@ Método Médio: 2.0
 
 Autores
 
-Diogo Santos Cruz
-Kevyn Silva Rodrigues
-Juend Berg da Silva
-William Martins de Almeida
-Victor Santos de Paula
-Jose Pessoa Laurentino
+Diogo Santos Cruz /
+Kevyn Silva Rodrigues / 
+Juend Berg da Silva / 
+William Martins de Almeida / 
+Victor Santos de Paula /
+Jose Pessoa Laurentino / 
 Erison Silva Oliveira
