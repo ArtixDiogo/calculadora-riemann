@@ -42,12 +42,12 @@ python app.py
 A interface gráfica da calculadora será iniciada.
 
 Estrutura do Projeto
-calculadora_riemann/
+calculadora_riemann/ <br>
 |
-|-- app.py                      # Script principal: interface gráfica e lógica de eventos
-|-- riemann_calculator.py       # Módulo para o cálculo da Soma de Riemann
-|-- plotter.py                  # Módulo para gerar os gráficos com Matplotlib
-|-- README.md                   # Este arquivo
+|-- app.py                      # Script principal: interface gráfica e lógica de eventos <br>
+|-- riemann_calculator.py       # Módulo para o cálculo da Soma de Riemann <br>
+|-- plotter.py                  # Módulo para gerar os gráficos com Matplotlib <br>
+|-- README.md                   # Este arquivo <br>
 
 Exemplo de Teste
 Para verificar o funcionamento:
@@ -63,10 +63,10 @@ Método Médio: 2.0
 
 Autores
 
-Diogo Santos Cruz /
-Kevyn Silva Rodrigues / 
-Juend Berg da Silva / 
-William Martins de Almeida / 
-Victor Santos de Paula /
-Jose Pessoa Laurentino / 
+Diogo Santos Cruz <br>
+Kevyn Silva Rodrigues <br>
+Juend Berg da Silva <br>
+William Martins de Almeida <br>
+Victor Santos de Paula <br>
+Jose Pessoa Laurentino <br>
 Erison Silva Oliveira
